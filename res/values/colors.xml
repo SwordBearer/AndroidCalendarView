@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="default_invalid_cell_text_color">#878787</color>
+    <color name="default_bg_weeklabel">#6495ED</color>
+    <color name="default_bg_selected_cell">#9ACD32</color>
+    <color name="default_bg_today">#EE3B3B</color>
+    <color name="default_valid_cell_text_color">#000000</color>
+    <color name="default_line_color">#9E9E9E</color>
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="default_bg_normal_cell">#FFFFF0</color>
+
+</resources>

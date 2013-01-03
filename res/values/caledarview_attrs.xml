@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="calendar_view">
+
+        <!-- weekLabel attrs -->
+        <attr name="showWeekLabel" format="boolean" />
+        <attr name="bgColorOfWeekLabel" format="color" />
+        <!-- invalidCell attrs -->
+        <attr name="invalidCellTextColor" format="color" />
+        <!-- validCell attrs -->
+        <attr name="cellTextSize" format="dimension" />
+        <attr name="validCellTextColor" format="color" />
+        <attr name="bgColorOfSelectedCell" format="reference" />
+        <attr name="bgColorOfNormalCell" format="reference" />
+        <attr name="bgColorOfToday" format="color" />
+        <!-- calendar Line attrs -->
+        <attr name="showLines" format="boolean" />
+        <attr name="lineWidth" format="dimension" />
+        <attr name="lineColor" format="color" />
+    </declare-styleable>
+
+</resources>
