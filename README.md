@@ -6,6 +6,7 @@
  If you have a better way to get the same target ,please let me know~
  
   some screenshot :
+  
   ![](https://github.com/SwordBearer/AndroidCalendarView/raw/master/calendarView_scrshoot1.png)
 
   ![](https://github.com/SwordBearer/AndroidCalendarView/raw/master/calendarView_scrshoot2.png)
